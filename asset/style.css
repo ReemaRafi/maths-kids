@@ -1,0 +1,13 @@
+body{
+    background-image: url(table.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+     margin-top: 180px;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    color: rgb(227, 194, 194);
+    align-items: center;
+    width: 100%;
+}
